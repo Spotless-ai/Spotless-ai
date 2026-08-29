@@ -4,7 +4,7 @@
 
 Useful software, kept simple.
 
-I build local-first, open-source tools for everyday computer problems that should not require an account or a subscription.
+I build local-first tools for everyday computer problems that should not require an account or a subscription.
 
 ## Tools
 
@@ -17,3 +17,5 @@ ShipSafe checks a project folder or ZIP for exposed secrets, private files, pers
 [Use ShipSafe](https://spotless-ai.github.io/shipsafe/) · [View the source](https://github.com/Spotless-ai/shipsafe)
 
 Feedback and bug reports are welcome.
+
+Free tools are open source. Paid tools are a one-time purchase and include future updates.

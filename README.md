@@ -2,20 +2,21 @@
 
 # Spotless
 
-Useful software, kept simple.
-
-I build local-first tools for everyday computer problems that should not require an account or a subscription.
+I make small, practical tools for everyday computer tasks. Free tools are open source.
 
 ## Tools
 
-Your browser has bookmarks. Spotless Pin brings them to the rest of your computer. Press one shortcut to save the webpage, file, folder, or application in front of you, then search and reopen it later.
+| Tool | What it does | Runs on |
+| --- | --- | --- |
+| [ShipSafe](https://spotless-ai.github.io/shipsafe/) | Flags common secrets and unwanted files before you share a project. Review the results and export a cleaned ZIP. | Web browser — no upload or installation |
+| [Spotless Pin](https://github.com/Spotless-ai/spotless-pin) | Saves references to webpages, files, folders and applications so you can find them again. | Windows desktop; an extension adds browser-page capture |
 
-[View Spotless Pin](https://github.com/Spotless-ai/spotless-pin)
+ShipSafe processes files in your browser and leaves the originals unchanged. It is a final check, not a security guarantee. [Source](https://github.com/Spotless-ai/shipsafe)
 
-ShipSafe checks a project folder or ZIP for exposed secrets, private files, personal paths, and unnecessary bulk before you share it. Scanning happens locally in the browser, and you decide what goes into the cleaned ZIP.
+Spotless Pin is available as a [portable Windows download](https://github.com/Spotless-ai/spotless-pin/releases/latest), not a web app. The current executable is unsigned and Windows may warn about or block it.
 
-[Use ShipSafe](https://spotless-ai.github.io/shipsafe/) · [View the source](https://github.com/Spotless-ai/shipsafe)
+## Feedback
 
-Feedback and bug reports are welcome.
+Found a bug or have a suggestion? Open an issue in the tool's repository.
 
-Free tools are open source. Paid tools are a one-time purchase and include future updates.
+[X](https://x.com/Spotlesstools) · [Reddit](https://www.reddit.com/user/SpotlessTools/)

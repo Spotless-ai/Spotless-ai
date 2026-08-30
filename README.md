@@ -8,10 +8,14 @@ I make small, practical tools for everyday computer tasks. Free tools are open s
 
 | Tool | What it does | Runs on |
 | --- | --- | --- |
-| [ShipSafe](https://spotless-ai.github.io/shipsafe/) | Flags common secrets and unwanted files before you share a project. Review the results and export a cleaned ZIP. | Web browser — no upload or installation |
+| [ShipSafe](https://spotless-ai.github.io/shipsafe/) | Flags common secrets and unwanted files before you share a project. Review the results and export a cleaned ZIP. | Browser · [Source](https://github.com/Spotless-ai/shipsafe) |
+| [DropZone](https://spotless-ai.github.io/dropzone/) | Converts, resizes and compresses images, creates ZIP archives, and turns images into PDFs. | Browser · [Source](https://github.com/Spotless-ai/dropzone) |
+| [ShowMe](https://spotless-ai.github.io/showme/) | Turns screenshots into clickable how-to guides. Add instructions and markers, then export a standalone HTML guide. | Browser · [Source](https://github.com/Spotless-ai/showme) |
 | [Spotless Pin](https://github.com/Spotless-ai/spotless-pin) | Saves references to webpages, files, folders and applications so you can find them again. | Windows desktop; an extension adds browser-page capture |
 
-ShipSafe processes files in your browser and leaves the originals unchanged. It is a final check, not a security guarantee. [Source](https://github.com/Spotless-ai/shipsafe)
+The browser tools are free to use, process selected files locally, and don't require an account. Original files are left unchanged.
+
+ShipSafe checks known patterns; it isn't a security guarantee. Each tool's repository documents its capabilities and limitations.
 
 Spotless Pin is available as a [portable Windows download](https://github.com/Spotless-ai/spotless-pin/releases/latest), not a web app. The current executable is unsigned and Windows may warn about or block it.
 

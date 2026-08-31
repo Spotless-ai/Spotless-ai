@@ -12,6 +12,7 @@ I make small, practical tools for everyday computer tasks. Free tools are open s
 | [DropZone](https://spotless-ai.github.io/dropzone/) | Converts, resizes and compresses images, creates ZIP archives, and turns images into PDFs. | Browser · [Source](https://github.com/Spotless-ai/dropzone) |
 | [ShowMe](https://spotless-ai.github.io/showme/) | Turns screenshots into clickable how-to guides. Add instructions and markers, then export a standalone HTML guide. | Browser · [Source](https://github.com/Spotless-ai/showme) |
 | [Cover](https://spotless-ai.github.io/cover/) | Covers private details in pictures and PDFs, then saves a flattened copy for sharing. | Browser · [Source](https://github.com/Spotless-ai/cover) |
+| [Album](https://spotless-ai.github.io/album/) | Makes portable photo galleries with dates, captions and originals. Download an album ZIP to keep or share. | Browser · [Source](https://github.com/Spotless-ai/album) |
 
 The browser tools are free to use, process selected files locally, and don't require an account. Original files are left unchanged.
 

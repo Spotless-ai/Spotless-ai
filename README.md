@@ -13,6 +13,7 @@ I make small, practical tools for everyday computer tasks. Free tools are open s
 | [ShowMe](https://spotless-ai.github.io/showme/) | Turns screenshots into clickable how-to guides. Add instructions and markers, then export a standalone HTML guide. | Browser · [Source](https://github.com/Spotless-ai/showme) |
 | [Cover](https://spotless-ai.github.io/cover/) | Covers private details in pictures and PDFs, then saves a flattened copy for sharing. | Browser · [Source](https://github.com/Spotless-ai/cover) |
 | [Album](https://spotless-ai.github.io/album/) | Makes portable photo galleries with dates, captions and originals. Download an album ZIP to keep or share. | Browser · [Source](https://github.com/Spotless-ai/album) |
+| [Find](https://spotless-ai.github.io/find/) | Searches visible printed English text across screenshots you choose and highlights matching results. | Browser · [Source](https://github.com/Spotless-ai/find) |
 
 The browser tools are free to use, process selected files locally, and don't require an account. Original files are left unchanged.
 

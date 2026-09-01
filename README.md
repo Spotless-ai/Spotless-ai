@@ -8,6 +8,7 @@ I make small, practical tools for everyday computer tasks. Free tools are open s
 
 | Tool | What it does | Runs on |
 | --- | --- | --- |
+| [Spotless Check](https://spotless-ai.github.io/check/) | Explains where links and QR codes go before you open them, flags common address tricks, and removes known tracking parameters. | Browser · [Source](https://github.com/Spotless-ai/check) |
 | [ShipSafe](https://spotless-ai.github.io/shipsafe/) | Flags common secrets and unwanted files before you share a project. Review the results and export a cleaned ZIP. | Browser · [Source](https://github.com/Spotless-ai/shipsafe) |
 | [DropZone](https://spotless-ai.github.io/dropzone/) | Converts, resizes and compresses images, creates ZIP archives, and turns images into PDFs. | Browser · [Source](https://github.com/Spotless-ai/dropzone) |
 | [ShowMe](https://spotless-ai.github.io/showme/) | Turns screenshots into clickable how-to guides. Add instructions and markers, then export a standalone HTML guide. | Browser · [Source](https://github.com/Spotless-ai/showme) |
